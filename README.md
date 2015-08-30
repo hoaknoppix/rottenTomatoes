@@ -33,6 +33,6 @@ Notes: It seems the customize transition cannot work with the push segue....
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](rotten_tomatoes.gif)
+![Video Walkthrough](rottenTomatoes.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
